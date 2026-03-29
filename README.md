@@ -74,13 +74,6 @@ Blockchain: Solidity, Smart Contracts, NFT, DApps
 * Build a personal dev dashboard
 
 
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
-
 ---
 
 ## 🚧 Featured Projects
